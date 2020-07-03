@@ -33,7 +33,7 @@ session = InstaPy(username=insta_username,
 
 with smart_run(session):
     try:
-      print('Hey')
+      print('Hey webhook')
     except Exception:
       print(traceback.format_exc())
     """ Activity flow """
