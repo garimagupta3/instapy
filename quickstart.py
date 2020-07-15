@@ -6,6 +6,7 @@ from instapy import smart_run
 insta_username = ''
 insta_password = ''
 
+
 comments = ['Nice shot! @{}',
         'I love your profile! @{}',
         'Your feed is an inspiration :thumbsup:',
@@ -15,6 +16,7 @@ comments = ['Nice shot! @{}',
         'Looks awesome @{}',
         'Getting inspired by you @{}',
         ':raised_hands: Yes!',
+            ':raised_hands: Yes!',
         'I can feel your passion @{} :muscle:']
 
 # get an InstaPy session!
