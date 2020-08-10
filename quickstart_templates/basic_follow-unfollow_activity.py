@@ -70,7 +70,6 @@ with smart_run(session):
     except Exception:
       print(traceback.format_exc())
     try:
-      print('Hey webhook')
     
     """ Activity flow """
     # general settings
