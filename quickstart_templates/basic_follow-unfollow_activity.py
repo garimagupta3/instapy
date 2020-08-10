@@ -69,7 +69,7 @@ with smart_run(session):
       print('Hey webhook')
     except Exception:
       print(traceback.format_exc())
-    try:
+    try
       print('Hey webhook')
     except Exception:
       print(traceback.format_exc())
