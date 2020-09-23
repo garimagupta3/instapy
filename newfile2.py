@@ -7,7 +7,7 @@ insta_username = ''
 insta_password = ''
 
 
-comments = ['Nice shot!! @{}',
+comments = ['Nice shot!! nice @{}',
         'I love your profile! @{}',
         'Your feed is an inspiration :thumbsup:',
         'Just incredible :open_mouth:',
